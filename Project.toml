@@ -1,7 +1,12 @@
 name = "ProbabilityThing"
 uuid = "d569a39a-dfd6-437e-9042-ffa40528d8ad"
 authors = ["Olga Lyashevska <olga@herenstraat.nl> and contributors"]
-version = "1.0.0-DEV"
+version = "0.1.0"
+
+[deps]
+Example = "7876af07-990d-54b4-ab0e-23690620f79a"
+QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
 
 [compat]
 julia = "1"

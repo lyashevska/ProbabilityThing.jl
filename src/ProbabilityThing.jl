@@ -1,4 +1,8 @@
+"""
+This is a module for the thing
+"""
 module ProbabilityThing
+
 
 using QuadGK
 
